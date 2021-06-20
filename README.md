@@ -1,2 +1,5 @@
-# projeto_mod4_vamo-ai
-Projeto final do módulo 4 do VamoAI - Ifood &amp; Resilia Educação
+# Projeto final do módulo 4: Storytelling com dados
+
+## Objetivo: :dart:
+Neste projeto nossa squad deverá montar um dashboard sobre a base de dados escolhida por nós, a
+fim de contar uma história com os dados.
