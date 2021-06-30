@@ -2,8 +2,8 @@
 
 ## Objetivo: 🎯
 
-Neste projeto, o objetivo da nossa squad foi montar dashboards no Tableau sobre uma base de dados, a fim de contar uma   
-história com os dados.  
+Neste projeto, o objetivo da nossa squad foi montar dashboards no Tableau sobre uma base de dados,  
+a fim de contar uma história com dados.
 Entre as opções disponíveis escolhemos a base ![Queimadas - INPE](https://queimadas.dgi.inpe.br/queimadas/portal).
 
 
