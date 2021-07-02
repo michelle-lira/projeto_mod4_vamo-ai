@@ -28,12 +28,13 @@ Entre as opções disponíveis escolhemos a base ![Queimadas - INPE](https://que
 
 ## Ações individuais:
 
-1. Fazer o descarte de bitucas de cigarro nos locais corretos
+1. Fazer o descarte de bitucas de cigarro nos locais corretos, assim como materiais inflamáveis
 2. Não soltar balões (crime previsto no Art. 42 da Lei de Crimes Ambientais)
-3. Não fazer fogueiras nas proximidades da vegetação
+3. Não fazer fogueiras nas proximidades da vegetação e caso faça, limpar o local e apagar totalmente o fogo antes de deixar o local
 4. Evitar queimar móveis ou lixo
-5. Promover a capinação de áreas com alta vegetação perto da sua residência
-6. Se possível, molhar faixas de terra seca próximas das áreas de vegetação
+5. Evitar acender velas próximo à vegetação
+6. Promover a capinação de áreas com alta vegetação próximas de residências em áreas urbanas
+7. Se possível, molhar faixas de terra seca próximas das áreas de vegetação
 
 
 ## Referências: 🔖
@@ -65,6 +66,8 @@ Entre as opções disponíveis escolhemos a base ![Queimadas - INPE](https://que
 ![INESC: Soluções para as queimadas na Amazônia já existem](https://www.inesc.org.br/solucoes-para-as-queimadas-na-amazonia-ja-existem/)
 
 ![Nasa - Earth Observatory: Fires in Brazil](https://earthobservatory.nasa.gov/images/145464/fires-in-brazil)
+
+![Observatório do Pantanal](https://observatoriopantanal.org/)
 
 ![O que é preciso para acabar com as queimadas no Pantanal](https://exame.com/esg/o-que-e-preciso-para-acabar-com-as-queimadas-no-pantanal/)
 
