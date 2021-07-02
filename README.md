@@ -7,7 +7,7 @@ a fim de contar uma história com dados.
 Entre as opções disponíveis escolhemos a base ![Queimadas - INPE](https://queimadas.dgi.inpe.br/queimadas/portal).
 
 
-## Ações Governamentais e coletivas da Sociedade Civil para mitigar as queimadas
+## Ações Governamentais para mitigar as queimadas:
 
 1. Fiscalização
 2. Planos de ação para prevenção e controle das queimadas + Campanhas de prevenção
@@ -15,11 +15,15 @@ Entre as opções disponíveis escolhemos a base ![Queimadas - INPE](https://que
 4. Demarcação de terras indígenas, quilombolas e criação, regularização e proteção de Unidades de Conservação
 5. Reestruturação do IBAMA, ICMBio e FUNAI
 6. Moratórias para suspensão temporária dos desmatamentos (ex: PL 4531/2020 propõe proibição do desmatamento na Amazônia por 5 anos)
-7. Brigadas Municipais Mistas
-8. Técnica do fogo controlado
-9. Compartilhamento de informações e denúncias por parte da população, além de acompanhar o andamento das políticas governamentais e cobrar ações efetivas ao poder público
-10. Geração de conhecimento com base na mobilização da população local (ex: ONG Mulheres em Ação no Pantanal (Mupan), que atua ao lado das comunidades tradicionais e Rede de Solidariedade Pantanal)
-11. Implementação de medidas preventivas no entorno das regiões alvo: o entorno da região influencia no que acontece no bioma úmido. As grandes fazendas que estão aterrando riacho para fazer plantio, por exemplo. São milhares de riachos e nascentes d’água que secam na época com pouca chuva no Cerrado, e isso diminui a quantidade de água que chega ao Pantanal.
+
+
+## Ações coletivas da Sociedade Civil:
+
+1. Brigadas Municipais Mistas
+2. Técnica do fogo controlado
+3. Compartilhamento de informações e denúncias por parte da população, além de acompanhar o andamento das políticas governamentais e cobrar ações efetivas ao poder público
+4. Geração de conhecimento com base na mobilização da população local (ex: ONG Mulheres em Ação no Pantanal (Mupan), que atua ao lado das comunidades tradicionais e Rede de Solidariedade Pantanal)
+5. Implementação de medidas preventivas no entorno das regiões alvo: o entorno da região influencia no que acontece no bioma úmido. As grandes fazendas que estão aterrando riacho para fazer plantio, por exemplo. São milhares de riachos e nascentes d’água que secam na época com pouca chuva no Cerrado, e isso diminui a quantidade de água que chega ao Pantanal.
 
 
 ## Ações individuais:
