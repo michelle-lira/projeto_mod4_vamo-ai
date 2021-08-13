@@ -4,7 +4,7 @@
 
 Neste projeto, o objetivo da nossa squad foi montar dashboards no Tableau sobre uma base de dados,  
 a fim de contar uma história com dados.
-Entre as opções disponíveis escolhemos a base ![Queimadas - INPE](https://queimadas.dgi.inpe.br/queimadas/portal).
+Entre as opções disponíveis escolhemos a base [Queimadas - INPE](https://queimadas.dgi.inpe.br/queimadas/portal).
 
 
 ## Ações Governamentais para mitigar as queimadas:
@@ -39,42 +39,42 @@ Entre as opções disponíveis escolhemos a base ![Queimadas - INPE](https://que
 
 ## Referências: 🔖
 
-![Atuação do Estado no combate ao desmatamento e as queimadas durante a pandemia](http://revista.unicuritiba.edu.br/index.php/percurso/article/download/5318/371373243)
+[Atuação do Estado no combate ao desmatamento e as queimadas durante a pandemia](http://revista.unicuritiba.edu.br/index.php/percurso/article/download/5318/371373243)
 
-![Cidadão é protagonista na prevenção e combate às queimadas](http://www.mt.gov.br/-/10977090-cidadao-e-protagonista-na-prevencao-e-combate-as-queimadas)
+[Cidadão é protagonista na prevenção e combate às queimadas](http://www.mt.gov.br/-/10977090-cidadao-e-protagonista-na-prevencao-e-combate-as-queimadas)
 
-![Cinco medidas para frear a destruição da Amazônia](https://www.greenpeace.org/brasil/blog/cinco-medidas-para-frear-a-destruicao-da-amazonia-ja/)
+[Cinco medidas para frear a destruição da Amazônia](https://www.greenpeace.org/brasil/blog/cinco-medidas-para-frear-a-destruicao-da-amazonia-ja/)
 
-![COLORBREWER 2.0 - color advice for cartography](https://colorbrewer2.org/#type=diverging&scheme=BrBG&n=3)
+[COLORBREWER 2.0 - color advice for cartography](https://colorbrewer2.org/#type=diverging&scheme=BrBG&n=3)
 
-![Como desenvolver um plano de Análise de Dados](https://pt.surveymonkey.com/mp/developing-data-analysis-plan/)
+[Como desenvolver um plano de Análise de Dados](https://pt.surveymonkey.com/mp/developing-data-analysis-plan/)
 
-![Como evitar queimadas e proteger o meio-ambiente](https://www.selecoes.com.br/superdicas/como-evitar-as-queimadas-e-proteger-o-meio-ambiente/)
+[Como evitar queimadas e proteger o meio-ambiente](https://www.selecoes.com.br/superdicas/como-evitar-as-queimadas-e-proteger-o-meio-ambiente/)
 
-![Como monitorar o fogo: Revista Pesquisa FAPESP](https://revistapesquisa.fapesp.br/como-monitorar-o-fogo/)
+[Como monitorar o fogo: Revista Pesquisa FAPESP](https://revistapesquisa.fapesp.br/como-monitorar-o-fogo/)
 
-![Covid-19 e queimadas na Amazônia Legal e no Pantanal: aspectos cumulativos e vulnerabilidades](https://climaesaude.icict.fiocruz.br/sites/climaesaude.icict.fiocruz.br/files/notaqueimadascovidnovo.pdf)
+[Covid-19 e queimadas na Amazônia Legal e no Pantanal: aspectos cumulativos e vulnerabilidades](https://climaesaude.icict.fiocruz.br/sites/climaesaude.icict.fiocruz.br/files/notaqueimadascovidnovo.pdf)
 
-![Critical jaguar habitat destroyed by fire in Pantanal](http://mapbiomas-br-site.s3.amazonaws.com/3a%20edicao%20premio%20mapbiomas/DeBarroset_al._FirePantanal_MapBiomas3ed_-_Alan_Eduardo_de_Barros.pdf)
+[Critical jaguar habitat destroyed by fire in Pantanal](http://mapbiomas-br-site.s3.amazonaws.com/3a%20edicao%20premio%20mapbiomas/DeBarroset_al._FirePantanal_MapBiomas3ed_-_Alan_Eduardo_de_Barros.pdf)
 
-![Data Storytelling: como transformar dados em uma narrativa envolvente](https://www.digitalhouse.com/br/blog/storytelling-com-dados)
+[Data Storytelling: como transformar dados em uma narrativa envolvente](https://www.digitalhouse.com/br/blog/storytelling-com-dados)
 
-![Global Fire Data: Painel de Controle da Amazônia](https://globalfiredata.org/pages/pt/amazon-dashboard/)
+[Global Fire Data: Painel de Controle da Amazônia](https://globalfiredata.org/pages/pt/amazon-dashboard/)
 
-![Guia de Acessibilidade de Cores para DataViz](https://blog.dp6.com.br/guia-de-acessibilidade-de-cores-para-dataviz-5d4744091719)
+[Guia de Acessibilidade de Cores para DataViz](https://blog.dp6.com.br/guia-de-acessibilidade-de-cores-para-dataviz-5d4744091719)
 
-![INESC: Soluções para as queimadas na Amazônia já existem](https://www.inesc.org.br/solucoes-para-as-queimadas-na-amazonia-ja-existem/)
+[INESC: Soluções para as queimadas na Amazônia já existem](https://www.inesc.org.br/solucoes-para-as-queimadas-na-amazonia-ja-existem/)
 
-![Nasa - Earth Observatory: Fires in Brazil](https://earthobservatory.nasa.gov/images/145464/fires-in-brazil)
+[Nasa - Earth Observatory: Fires in Brazil](https://earthobservatory.nasa.gov/images/145464/fires-in-brazil)
 
-![Observatório do Pantanal](https://observatoriopantanal.org/)
+[Observatório do Pantanal](https://observatoriopantanal.org/)
 
-![O que é preciso para acabar com as queimadas no Pantanal](https://exame.com/esg/o-que-e-preciso-para-acabar-com-as-queimadas-no-pantanal/)
+[O que é preciso para acabar com as queimadas no Pantanal](https://exame.com/esg/o-que-e-preciso-para-acabar-com-as-queimadas-no-pantanal/)
 
-![Pantanal, tudo fica bem quando o fogo se apaga?](https://www.e-publicacoes.uerj.br/index.php/sustinere/article/view/56009/36483)
+[Pantanal, tudo fica bem quando o fogo se apaga?](https://www.e-publicacoes.uerj.br/index.php/sustinere/article/view/56009/36483)
 
-![Projeto de Lei 4531/2020 - Moratória para suspensão temporária do desmatamento na Amazônia por 5 anos](https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2262784)
+[Projeto de Lei 4531/2020 - Moratória para suspensão temporária do desmatamento na Amazônia por 5 anos](https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2262784)
 
-![Storytelling with data - Cole Knaflic](https://www.storytellingwithdata.com/books)
+[Storytelling with data - Cole Knaflic](https://www.storytellingwithdata.com/books)
 
-![Uma visão geral sobre a limpeza dos dados](https://www.ibpad.com.br/blog/comunicacao-digital/uma-visao-geral-sobre-a-limpeza-dos-dados/)
+[Uma visão geral sobre a limpeza dos dados](https://www.ibpad.com.br/blog/comunicacao-digital/uma-visao-geral-sobre-a-limpeza-dos-dados/)
